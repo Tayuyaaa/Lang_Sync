@@ -1,6 +1,6 @@
 🌍 *Read this in other languages:* [🇺🇦 Українська](README_uk.md)
 
-# 🌐 Tab Lang Memory (Windows)
+# 🌐 Lang_Sync (Windows)
 
 A blazing fast extension for Chrome, Edge, and Brave that **remembers your keyboard layout (Ukrainian / English) for each individual tab** and automatically switches it when you navigate between them.
 
