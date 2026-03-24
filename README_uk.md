@@ -1,4 +1,4 @@
-🌍 *Read this in other languages:* [🇬🇧 English](README.md)
+🌍 *Read this in other languages:* [en English](README.md)
 
 # 🌐 Lang_Sync (Windows)
 
